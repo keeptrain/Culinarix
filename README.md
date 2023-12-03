@@ -14,6 +14,7 @@ GitHub Repositories for Capstone Project Bangkit Academy 2023 batch 2
 
 # Repository
 | Learning Path |
+|:-----------:|
 | [Android Developer]() | 
 | [Cloud Computing]() |
 | [Machine Learning]() |
