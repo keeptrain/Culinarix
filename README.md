@@ -15,6 +15,6 @@ GitHub Repositories for Capstone Project Bangkit Academy 2023 batch 2
 # Repository
 | Learning Path |
 |:-----------:|
-| [Android Developer]() | 
+| [Android Developer](https://github.com/keeptrain/Culinarix-App/) | 
 | [Cloud Computing]() |
 | [Machine Learning]() |
