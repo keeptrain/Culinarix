@@ -1,6 +1,10 @@
 # Culinarix
 GitHub Repositories for Capstone Project Bangkit Academy 2023 batch 2
 
+# Why are we making this project?
+Bandung has a wide and diverse culinary variety, so tourists or locals often find it difficult to find places to eat that suit their tastes and needs. The existing dining recommendations are still general and not specific to each individual. This makes tourists or locals have to spend time and energy to find the right place to eat.
+In addition, some UMKM in Bandung also find it difficult to promote themselves and reach wider consumers. This is due to limited capital and human resources. As a result, many UMKM are not recognized by the wider community and cannot develop optimally.
+
 # Team ID : CH2-PS138
 | Name | Student ID | Learning Path |
 |:-----------:|:------------:|:------------:|
