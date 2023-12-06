@@ -1,5 +1,5 @@
 # Culinarix 
-![Logo](https://github.com/keeptrain/Culinarix/blob/main/Culinarix Logo.png?raw=true)
+![Logo](https://github.com/keeptrain/Culinarix/blob/main/CulinarixLogo.png?raw=true)
 
 GitHub Repositories for Capstone Project Bangkit Academy 2023 batch 2
 
