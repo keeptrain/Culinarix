@@ -1,4 +1,6 @@
-# Culinarix
+# Culinarix 
+![Logo](https://github.com/keeptrain/Culinarix/blob/main/logo.jpg?raw=true)
+
 GitHub Repositories for Capstone Project Bangkit Academy 2023 batch 2
 
 # Why are we making this project?
