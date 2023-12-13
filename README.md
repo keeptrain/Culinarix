@@ -22,5 +22,5 @@ In addition, some UMKM in Bandung also find it difficult to promote themselves a
 | Learning Path |
 |:-----------:|
 | [Android Developer](https://github.com/keeptrain/Culinarix-App/) | 
-| [Cloud Computing](https://github.com/alghoziii/api-collaborative_filtering) |
+| [Cloud Computing]([https://github.com/alghoziii/api-collaborative_filtering](https://github.com/LeeVonks/Culinarix-API-Documentation)) |
 | [Machine Learning](https://drive.google.com/drive/folders/1XV_g5sIU-H5lffU5iLo9GEe1HM7j4aGm) |
