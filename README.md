@@ -7,3 +7,4 @@ The collaborative filtering model that we built produces a mean squared error of
 
 ### Dataset
 To create a recommendation model, we decided to build our own dataset. We collected culinary location data from Google Maps and drew inspiration from [this dataset](https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination) in creating our own.
+The dataset we used can be viewed [here](https://www.kaggle.com/datasets/vinnalia6/dataset-culinarix)
