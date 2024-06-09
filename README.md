@@ -48,5 +48,7 @@ menggunakan tekonologi tensorflow dan serta library lain nya.
 
 2. Mobile App : Menggunakan kotlin sebagai bahasa pemrograman nya dan android studio sebagai tols ide project ini. Devisi ini berperan dalam implementasi REST API yang di deploy oleh devisi Cloud Computing yang bekerja sama dengan machine learning serta membuat UI frontend mobile dari aplikasi culinarix
 
-3. Cloud Computing : Menggunakan google cloud run untuk mendeploy model ML dan membuat RESTful API dan endpoint untuk menghubungkan model ML yang dapat di gunakan oleh tim mobile App untuk memberikan rekomendasi tempat makanan kpda pengguna.untuk API sendiri menggunakan Flask API karena ringan dan fleksibel 
+3. Cloud Computing : Menggunakan google cloud run untuk mendeploy model ML dan membuat RESTful API dan endpoint untuk menghubungkan model ML yang dapat di gunakan oleh tim mobile App untuk memberikan rekomendasi tempat makanan kpda pengguna.untuk API sendiri menggunakan Flask API karena ringan dan fleksibel
+
+UI : <a href = "https://www.canva.com/design/DAGHAVIUyN4/K1krMfuoDR2SrcJxN7oMlQ/edit?utm_content=DAGHAVIUyN4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/></a>
 
