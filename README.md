@@ -39,7 +39,8 @@ In addition, some UMKM in Bandung also find it difficult to promote themselves a
 
 
 # Note Presentation
-1.Machine Learning : Mengumpulkan dataset data di hasilkan dari scrapping data dari google maps.membangun 2 model dengan menggunakan tensorflow dengan arsitektur neural networks.menggunakan tekonologi tensorflow dan serta library lain nya.
+1.Machine Learning : Mengumpulkan dataset data di hasilkan dari scrapping data dari google maps.membangun 2 model dengan menggunakan tensorflow dengan arsitektur neural networks.
+menggunakan tekonologi tensorflow dan serta library lain nya.
 •	Collaborative Filtering : Collaborative Filtering metode rekomendasi nya berdasarkan preferensi  dan rating user lain yang memiliki kesamaan profil dengan pengguna untuk menghasilkan rekomendasi bagi user.
 
 •	Content Based : Content based filtering merupakan teknik algoritma yang menggunakan fitur atau atribut item untuk menghasilkan rekomendasi bagi pengguna
